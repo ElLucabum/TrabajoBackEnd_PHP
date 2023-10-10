@@ -328,17 +328,19 @@
 		 echo "<h4> Mostrar numeros pares del 1 al 20 </h4>". "<br>"."<br>";		 
 		 
 		 while($Nume3 < 20){
-			 echo "$Nume3";
-			 echo "<br>";
-			   $Nume3 += 2; 
+			 if($Nume3 % 2 == 0){
+			   echo "$Nume3". "<br>";
+			 }
+			   $Nume3 += 1; 
 		 }		 
 		 		 
 		 $Nume4 = 1;
 		 echo "<h4> Mostrar numeros impares del 1 al 20 </h4>". "<br>"."<br>";		 
 		 
 		 while($Nume4 < 20){
-			 echo "$Nume4";
-			 echo "<br>";
+			 if($Nume4 % 2 != 0){
+			   echo "$Nume4". "<br>";
+			 }
 			   $Nume4 += 3; 
 		 }		 
 		 
@@ -360,9 +362,28 @@
 			 echo "<br>";
 			   $Nume6 += 2; 
 		 }			 
-		 echo "el resultado es: ". $Nume6;		 
+		 echo "el resultado es: ". $Nume6;		
 		 
 		 
+		 echo "<h4> a continuacion mostraremos el resultado del factorial del 8. </h4>". "<br>";
+		 
+         $N = 8;
+		 $F = 1;
+		 $I = 0;
+		 
+		 for ($I = $N; $I>0; $I--){
+			 $F = $F * $I;
+		 }
+        echo "el factorial de $N es: ". "$F";
+
+			
+
+
+		
+		
+		
+		
+
  ?>
 
  </body>
