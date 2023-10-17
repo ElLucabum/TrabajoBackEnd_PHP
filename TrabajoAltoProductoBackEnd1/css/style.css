@@ -1,0 +1,57 @@
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-image: url(../imagenes/Fondo.gif);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.titulo {
+	color: white;
+    font-family: 'Tilt Neon', sans-serif;
+}
+
+.ContenedorPadre {
+	border-radius: 10px;
+	background: rgba(106, 55, 255, 0.5);
+	margin: 40px;
+	padding: 40px;
+	display: flex;
+	justify-content: center;
+	height: 500px;
+	width: 400px
+	
+
+}
+
+.Contenedor {
+	padding: 15px;
+}
+
+.Boton {
+	display: flex;
+    padding: 30px;
+	justify-content: center;
+}
+
+.colorBoton {
+	color: #6A37FF;
+}
+
+label {
+	color: white;
+}
+
+p {
+	color: white;
+}
+
+input, textarea {
+	outline: none;
+	border: 0;
+	border-radius: 6px;
+
+};
