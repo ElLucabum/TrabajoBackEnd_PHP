@@ -1,0 +1,43 @@
+Act 1:
+
+a) 
+   _________________________________________                     ___________________________                     __________________________                   ____________________________                 
+   |               Empleado:               |                    |         Localidad:        |                   |        Provincia:        |                  |          Region:         |
+   | Legajo: Personal                      |                    | Nombre: Belgrano          |                   |  Nombre: Buenos Aires    |                  |  Nombre: Argentina       |
+   | Dni: 189028                           |                    | Codigo: 448367            |                   |  Codigo:889702           |                  |  Codigo: 741046          |
+   | Nombre: nicolas gutierrez             |                    |                           |                   |                          |                  |                          |
+   | Fecha de nacimiento: 5 / abril / 1990 |  ⭄------------     |                           |  ⭄------------   |                          |  ⭄------------   |                          |
+   | telefono: 100438                      |                    |                           |                   |                          |                  |                          |
+   | salario: $40                          |                    |                           |                   |                          |                  |                          |
+   |_______________________________________|                    |___________________________|                   |__________________________|                  |__________________________|
+
+b)
+   __________________________________                      ____________________________                    __________________________________                  __________________________________ 
+   |             Empleado:          |                      |       Departamento:      |                    |            Jefe:               |                  |             Empleado:          |  
+   |   Legajo: empleado             |                      | Nombre: Julio Dorado     |                    |  Legajo: Jefe de departamento  |                  |   Legajo: empleado             |  
+   |   Dni: 890177                  |                      | Codigo: 791802           |                    |  Dni: 495687                   |                  |   Dni: 890177                  |   
+   |   Nombre: albaro sanches       |    ⭄------------     | Localidad:  Alvarado     |    |----------|    |  Nombre: Juarez Fernando       |  ------------⥺  |   Nombre: albaro sanches       | 
+   |   Telefono: 862933             |                      |                          |                    |  Telefono: 129840              |                  |   Telefono: 862933             |
+   |   Salario: $81                 |                      |                          |                    |  Salario: $150000              |                  |   Salario: $81                 | 
+   |________________________________|                      |__________________________|                    |________________________________|                  |________________________________| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

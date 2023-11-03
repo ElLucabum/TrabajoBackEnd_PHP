@@ -1,0 +1,88 @@
+body {bo
+    margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-image: url(../Imagenes//FondoGif2.gif);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	transition: color 0.3s ease;
+}
+
+.card-title {
+	color: white;
+
+}
+
+.card {
+	    --bs-body-bg: #0D0D0D;
+}
+
+.card-body {
+	background-color: #0D0D0D;
+}
+
+.card-img-top {
+	background-color: #0D0D0D;	
+}
+
+
+
+.body2 {   
+	 background-image: url(../Imagenes/FondoTransOscuro.png); 
+	 /* background-color: green; */
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+
+.Titulo {
+	color: white;
+	display: flex;
+	justify-content: center;
+	margin-top: 60px;
+	font-size: 300%;
+	font-family: 'Tilt Neon', sans-serif;
+
+}
+
+.SubTitulo {
+	color: white;
+	display: flex;
+	justify-content: center;
+	font-family: 'Tilt Neon', sans-serif;	
+}
+
+.CenterLogo {
+	Display: flex;
+	justify-content: center;
+}
+
+
+.LogoSize {
+	height: 70px;
+	width: 70px;
+}
+
+.BtonCenter {
+	display: flex;
+	justify-content: center;
+}
+
+.Botones {
+	margin: 20px;
+}
+
+.ProductosSecc1 {
+	display: flex;
+	justify-content: space-around;
+	margin: 45px;
+}
+
+.ProductosSecc2 {
+	display: flex;
+	justify-content: space-around;
+	margin-top: 45px;
+}
